@@ -6,6 +6,7 @@ __all__ = ['NaiveFilter', 'BSFilter', 'DFAFilter']
 __author__ = 'wanghaitao93'
 __date__ = '2020.02.04'
 
+#Comment by Filatov Roman Alexandrovich
 
 class NaiveFilter():
 
